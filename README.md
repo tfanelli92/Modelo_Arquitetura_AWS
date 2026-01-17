@@ -1,9 +1,8 @@
-
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 23/10/2026
-Empresa: Abstergo Industries 
-Responsável: Talita Fanelli Silva
+**Data:** 23/10/2026\
+**Empresa:** Abstergo Industries\
+**Responsável:** Talita Fanelli Silva
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Talita Fanelli Silva. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
@@ -47,8 +46,8 @@ A implementação das ferramentas citadas na empresa Abstergo Industries tem com
 
 ## Anexos
 
-Fluxograma com a arquitetura da solução proposta (arquivo: Abstergo_Arquitetura.jpeg)
+Fluxograma com a arquitetura da solução proposta ([arquivo: Abstergo_Arquitetura.jpeg](url))
 
-Assinatura do Responsável pelo Projeto:
+Assinatura da Responsável pelo Projeto:
 
 Talita Fanelli Silva
